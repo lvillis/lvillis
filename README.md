@@ -11,7 +11,10 @@ I'm a DevOps engineer.
 ![](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-DataGrip-informational?style=flat&logo=datagrip&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-RustRover-informational?style=flat&logo=rustrover&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Fleet-informational?style=flat&logo=fleet&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
