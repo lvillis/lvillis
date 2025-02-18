@@ -1,40 +1,19 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/lvillis/lvillis/master/wave.gif" width="30px"> ![](https://views.whatilearened.today/views/github/lvillis/lvillis.svg)
+<div align="center">
 
+[![Star History Chart](https://api.star-history.com/svg?repos=lvillis/tcping-rs,lvillis/motdyn&type=Date)](https://github.com/lvillis)
+</div>
 
-I'm a DevOps engineer.
+## 💎 My Project
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+|                           Project                           |                                                    Stars                                                     |                                                    Forks                                                     |                                            Remark                                             |
+|:-----------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
+|      [tcping-rs](https://github.com/lvillis/tcping-rs)      |   ![](https://img.shields.io/github/stars/lvillis/tcping-rs?color=f2f08d&logo=Undertale&logoColor=eb4630)    |   ![](https://img.shields.io/github/forks/lvillis/tcping-rs?color=ba86eb&logo=Handshake&logoColor=ea6aa6)    |           🛠️ tcping-rs: Rust (rs) TCP Ping (tcping) Utility for Port Reachability.           |
+|         [motdyn](https://github.com/lvillis/motdyn)         |     ![](https://img.shields.io/github/stars/lvillis/motdyn?color=f2f08d&logo=Undertale&logoColor=eb4630)     |     ![](https://img.shields.io/github/forks/lvillis/motdyn?color=ba86eb&logo=Handshake&logoColor=ea6aa6)     | 🛠️ motdyn (Dynamic MOTD): Rust-powered and highly configurable for real-time login insights. |
+|           [sbin](https://github.com/lvillis/sbin)           |      ![](https://img.shields.io/github/stars/lvillis/sbin?color=f2f08d&logo=Undertale&logoColor=eb4630)      |      ![](https://img.shields.io/github/forks/lvillis/sbin?color=ba86eb&logo=Handshake&logoColor=ea6aa6)      |        🛠️ Fetches and updates binaries from Docker images—simple, fast, Rust-powered.        |
+| [aqara-sdk-rust](https://github.com/lvillis/aqara-sdk-rust) | ![](https://img.shields.io/github/stars/lvillis/aqara-sdk-rust?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/lvillis/aqara-sdk-rust?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |                                    📦️ Aqara SDK for Rust.                                    |
 
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-GoLand-informational?style=flat&logo=goland&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-DataGrip-informational?style=flat&logo=datagrip&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-RustRover-informational?style=flat&logo=rustrover&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Fleet-informational?style=flat&logo=fleet&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Podman-informational?style=flat&logo=podman&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Containerd-informational?style=flat&logo=containerd&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Rancher-informational?style=flat&logo=rancher&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Alibaba_Cloud-informational?style=flat&logo=alibabacloud&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-CloudFlare-informational?style=flat&logo=cloudflare&logoColor=white&color=2bbc8a)
-
+<div align="center">
+</div>
 
 ## &#x1f4c8; GitHub Stats
 
