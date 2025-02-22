@@ -1,3 +1,5 @@
+# Hello, folks! <img src="https://raw.githubusercontent.com/lvillis/lvillis/master/wave.gif" width="30px"> ![](https://views.whatilearened.today/views/github/lvillis/lvillis.svg)
+
 <div align="center">
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lvillis/tcping-rs,lvillis/motdyn&type=Date)](https://github.com/lvillis)
