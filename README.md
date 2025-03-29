@@ -13,6 +13,7 @@
 |         [motdyn](https://github.com/lvillis/motdyn)         |     ![](https://img.shields.io/github/stars/lvillis/motdyn?color=f2f08d&logo=Undertale&logoColor=eb4630)     |     ![](https://img.shields.io/github/forks/lvillis/motdyn?color=ba86eb&logo=Handshake&logoColor=ea6aa6)     | 🛠️ motdyn (Dynamic MOTD): Rust-powered and highly configurable for real-time login insights. |
 |           [sbin](https://github.com/lvillis/sbin)           |      ![](https://img.shields.io/github/stars/lvillis/sbin?color=f2f08d&logo=Undertale&logoColor=eb4630)      |      ![](https://img.shields.io/github/forks/lvillis/sbin?color=ba86eb&logo=Handshake&logoColor=ea6aa6)      |        🛠️ Fetches and updates binaries from Docker images—simple, fast, Rust-powered.        |
 | [aqara-sdk-rust](https://github.com/lvillis/aqara-sdk-rust) | ![](https://img.shields.io/github/stars/lvillis/aqara-sdk-rust?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/lvillis/aqara-sdk-rust?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |                                    📦️ Aqara SDK for Rust.                                    |
+| [jenkins-sdk-rust](https://github.com/lvillis/jenkins-sdk-rust) | ![](https://img.shields.io/github/stars/lvillis/jenkins-sdk-rust?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/lvillis/jenkins-sdk-rust?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |                                    📦️ Jenkins SDK for Rust.                                    |
 
 <div align="center">
 </div>
