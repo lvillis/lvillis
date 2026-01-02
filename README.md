@@ -1,10 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/lvillis/lvillis/master/wave.gif" width="30px"> ![](https://views.whatilearened.today/views/github/lvillis/lvillis.svg)
 
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=lvillis/tcping-rs,lvillis/ddns-rs,lvillis/jenkins-sdk-rust&type=Date)](https://github.com/lvillis)
-</div>
-
 ## 💎 My Project
 
 |                             Project                             |                                                     Stars                                                      |                                                     Forks                                                      |                                                                              Remark                                                                               |
@@ -20,8 +15,14 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/lvillis">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lvillis&show=python&hide=makefile,batchfile,shell,php,java,vue,html,css,typescript,javascript,just&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&size_weight=0.5&count_weight=0.5" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lvillis&show=python&hide=makefile,batchfile,shell,php,java,vue,html,css,typescript,javascript,just,python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&size_weight=0.5&count_weight=0.5" />
 </a>
 <a href="https://github.com/lvillis">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lvillis&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="lvillis's GitHub Stats" />
 </a>
+
+---
+
+<div align="center">
+[![Star History Chart](https://api.star-history.com/svg?repos=lvillis/tcping-rs,lvillis/ddns-rs,lvillis/jenkins-sdk-rust&type=Date)](https://github.com/lvillis)
+</div>
