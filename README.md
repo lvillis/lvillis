@@ -24,5 +24,6 @@
 ---
 
 <div align="center">
+  
 [![Star History Chart](https://api.star-history.com/svg?repos=lvillis/tcping-rs,lvillis/ddns-rs,lvillis/jenkins-sdk-rust&type=Date)](https://github.com/lvillis)
 </div>
